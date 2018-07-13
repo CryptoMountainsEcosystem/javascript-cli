@@ -42,13 +42,9 @@ var ledgerComm   = null;
 
 const networks = {
   devnet: {
-    nethash: "578e820911f24e039733b45e4882b73e301f813a0d2c31330dafda84534ffa23",
+    nethash: "299f3ff2278784f5dd09d5c93b2bd90b3cbefe2a8fec892df0cfda41db1dba6c",
     peers: [
-      "167.114.29.51:4002",
-      "167.114.29.52:4002",
-      "167.114.29.53:4002",
-      "167.114.29.54:4002",
-      "167.114.29.55:4002"
+      "178.128.181.177:4100"
     ],
     ledgerpath: "44'/1'/"
   },
