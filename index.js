@@ -49,9 +49,9 @@ const networks = {
     ledgerpath: "44'/1'/"
   },
   mainnet: {
-    nethash: "191084aca280abfd65b7dbf93fea7b7b65f93d2570c6fde398c9883d8770fde8",
+    nethash: "20700d78709abd9f48c2c1970eb3202b1076b6dc83b0ed851a9f52dd84c9d1ed",
     peers: [
-      "178.128.13.108:4100"
+      "178.128.66.43:4100"
     ],
     ledgerpath: "44'/111'/"
   }
